@@ -5,7 +5,7 @@
     $sql="SELECT *  FROM alumno";
     $query=mysqli_query($con,$sql);
 ?>
-<!DOCTYPE html>
+<!DOCTYPE html>  
 <html lang="en">
     <head>
         <title> PAGINA ALUMNO</title>
